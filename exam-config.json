@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "name": "수학",
+      "questions": []
+    },
+    {
+      "name": "국어",
+      "questions": []
+    },
+    {
+      "name": "한국사",
+      "questions": []
+    },
+    {
+      "name": "영어",
+      "questions": []
+    },
+    {
+      "name": "사회",
+      "questions": []
+    },
+    {
+      "name": "과학",
+      "questions": []
+    }
+  ]
+}
