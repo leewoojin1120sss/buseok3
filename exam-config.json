@@ -3,7 +3,17 @@
   "subjects": [
     {
       "name": "수학",
-      "questions": []
+      "questions": [
+        {
+          "id": "math-test-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "4",
+          "key": "2",
+          "rubric": "",
+          "text": "[테스트] 1 + 1의 값은?\n① 1   ② 2   ③ 3   ④ 4   ⑤ 5"
+        }
+      ]
     },
     {
       "name": "국어",
