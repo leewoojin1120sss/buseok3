@@ -3,35 +3,7 @@
   "subjects": [
     {
       "name": "수학",
-      "questions": [
-        {
-          "id": "math-test-mc-1",
-          "number": "1",
-          "type": "mc",
-          "points": "4",
-          "key": "2",
-          "rubric": "",
-          "text": ""
-        },
-        {
-          "id": "math-test-short-1",
-          "number": "2",
-          "type": "short",
-          "points": "3",
-          "key": "2",
-          "rubric": "",
-          "text": ""
-        },
-        {
-          "id": "math-test-essay-1",
-          "number": "3",
-          "type": "essay",
-          "points": "5",
-          "key": "풀이 과정을 쓰고, 마지막에 정답 2를 제시한다.",
-          "rubric": "풀이 과정 3점 · 정답 2점",
-          "text": ""
-        }
-      ]
+      "questions": []
     },
     {
       "name": "국어",
