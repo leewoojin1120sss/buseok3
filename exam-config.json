@@ -384,7 +384,7 @@
           "type": "short",
           "points": "9",
           "key": "운율 / 3 / 여음구",
-          "rubric": "사진의 정답: 운율 / 3 / 여음구.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "rubric": "운율: 3점.\n3: 3점.\n여음구: 3점.\n맞은 항목당 3점, 합계 9점. 답안과 비교하여 가채점 점수를 입력.",
           "text": "",
           "manual": true
         },
@@ -394,7 +394,7 @@
           "type": "short",
           "points": "4",
           "key": "동영상, 댓글",
-          "rubric": "사진의 정답: 동영상, 댓글.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "rubric": "동영상: 2점.\n댓글: 2점.\n맞은 항목당 2점, 합계 4점. 답안과 비교하여 가채점 점수를 입력.",
           "text": "",
           "manual": true
         },
@@ -404,7 +404,7 @@
           "type": "short",
           "points": "12",
           "key": "㉠ 내재론 / ㉡ 표현론 / ㉢ 반영론 / ㉣ 효용론",
-          "rubric": "사진의 정답: ㉠ 내재론 / ㉡ 표현론 / ㉢ 반영론 / ㉣ 효용론.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "rubric": "㉠ 내재론: 3점.\n㉡ 표현론: 3점.\n㉢ 반영론: 3점.\n㉣ 효용론: 3점.\n각 기호에 맞는 답 하나당 3점, 합계 12점. 답안과 비교하여 가채점 점수를 입력.",
           "text": "",
           "manual": true
         }
@@ -417,7 +417,7 @@
           "id": "history-2026-t2-e1-mc-1",
           "number": "1",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "5",
           "rubric": "",
           "text": ""
@@ -426,7 +426,7 @@
           "id": "history-2026-t2-e1-mc-2",
           "number": "2",
           "type": "mc",
-          "points": "",
+          "points": "4",
           "key": "2",
           "rubric": "",
           "text": ""
@@ -435,7 +435,7 @@
           "id": "history-2026-t2-e1-mc-3",
           "number": "3",
           "type": "mc",
-          "points": "",
+          "points": "4",
           "key": "2",
           "rubric": "",
           "text": ""
@@ -444,7 +444,7 @@
           "id": "history-2026-t2-e1-mc-4",
           "number": "4",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "4",
           "rubric": "",
           "text": ""
@@ -453,7 +453,7 @@
           "id": "history-2026-t2-e1-mc-5",
           "number": "5",
           "type": "mc",
-          "points": "",
+          "points": "4.6",
           "key": "1",
           "rubric": "",
           "text": ""
@@ -462,7 +462,7 @@
           "id": "history-2026-t2-e1-mc-6",
           "number": "6",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "3",
           "rubric": "",
           "text": ""
@@ -471,7 +471,7 @@
           "id": "history-2026-t2-e1-mc-7",
           "number": "7",
           "type": "mc",
-          "points": "",
+          "points": "3.4",
           "key": "5",
           "rubric": "",
           "text": ""
@@ -480,7 +480,7 @@
           "id": "history-2026-t2-e1-mc-8",
           "number": "8",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "5",
           "rubric": "",
           "text": ""
@@ -489,7 +489,7 @@
           "id": "history-2026-t2-e1-mc-9",
           "number": "9",
           "type": "mc",
-          "points": "",
+          "points": "3.4",
           "key": "3",
           "rubric": "",
           "text": ""
@@ -498,7 +498,7 @@
           "id": "history-2026-t2-e1-mc-10",
           "number": "10",
           "type": "mc",
-          "points": "",
+          "points": "5.2",
           "key": "5",
           "rubric": "",
           "text": ""
@@ -507,7 +507,7 @@
           "id": "history-2026-t2-e1-mc-11",
           "number": "11",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "1",
           "rubric": "",
           "text": ""
@@ -516,7 +516,7 @@
           "id": "history-2026-t2-e1-mc-12",
           "number": "12",
           "type": "mc",
-          "points": "",
+          "points": "5.2",
           "key": "2",
           "rubric": "",
           "text": ""
@@ -525,7 +525,7 @@
           "id": "history-2026-t2-e1-mc-13",
           "number": "13",
           "type": "mc",
-          "points": "",
+          "points": "4",
           "key": "4",
           "rubric": "",
           "text": ""
@@ -534,7 +534,7 @@
           "id": "history-2026-t2-e1-mc-14",
           "number": "14",
           "type": "mc",
-          "points": "",
+          "points": "4",
           "key": "4",
           "rubric": "",
           "text": ""
@@ -543,7 +543,7 @@
           "id": "history-2026-t2-e1-mc-15",
           "number": "15",
           "type": "mc",
-          "points": "",
+          "points": "3.4",
           "key": "2",
           "rubric": "",
           "text": ""
@@ -552,7 +552,7 @@
           "id": "history-2026-t2-e1-mc-16",
           "number": "16",
           "type": "mc",
-          "points": "",
+          "points": "4",
           "key": "3",
           "rubric": "",
           "text": ""
@@ -561,7 +561,7 @@
           "id": "history-2026-t2-e1-mc-17",
           "number": "17",
           "type": "mc",
-          "points": "",
+          "points": "3.4",
           "key": "4",
           "rubric": "",
           "text": ""
@@ -570,7 +570,7 @@
           "id": "history-2026-t2-e1-mc-18",
           "number": "18",
           "type": "mc",
-          "points": "",
+          "points": "2.8",
           "key": "1",
           "rubric": "",
           "text": ""
