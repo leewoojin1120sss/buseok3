@@ -215,11 +215,430 @@
     },
     {
       "name": "국어",
-      "questions": []
+      "questions": [
+        {
+          "id": "korean-2026-t2-e1-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "3.9",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-2",
+          "number": "2",
+          "type": "mc",
+          "points": "4.6",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-3",
+          "number": "3",
+          "type": "mc",
+          "points": "5.5",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-4",
+          "number": "4",
+          "type": "mc",
+          "points": "3.1",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-5",
+          "number": "5",
+          "type": "mc",
+          "points": "3.8",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-6",
+          "number": "6",
+          "type": "mc",
+          "points": "4.6",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-7",
+          "number": "7",
+          "type": "mc",
+          "points": "4.6",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-8",
+          "number": "8",
+          "type": "mc",
+          "points": "3.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-9",
+          "number": "9",
+          "type": "mc",
+          "points": "3.8",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-10",
+          "number": "10",
+          "type": "mc",
+          "points": "3.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-11",
+          "number": "11",
+          "type": "mc",
+          "points": "3.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-12",
+          "number": "12",
+          "type": "mc",
+          "points": "5.4",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-13",
+          "number": "13",
+          "type": "mc",
+          "points": "4.6",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-14",
+          "number": "14",
+          "type": "mc",
+          "points": "3.9",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-15",
+          "number": "15",
+          "type": "mc",
+          "points": "4.6",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-16",
+          "number": "16",
+          "type": "mc",
+          "points": "4.6",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-17",
+          "number": "17",
+          "type": "mc",
+          "points": "3.1",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-mc-18",
+          "number": "18",
+          "type": "mc",
+          "points": "5.6",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "korean-2026-t2-e1-short-1",
+          "number": "1",
+          "type": "short",
+          "points": "9",
+          "key": "운율 / 3 / 여음구",
+          "rubric": "사진의 정답: 운율 / 3 / 여음구.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "text": "",
+          "manual": true
+        },
+        {
+          "id": "korean-2026-t2-e1-short-2",
+          "number": "2",
+          "type": "short",
+          "points": "4",
+          "key": "동영상, 댓글",
+          "rubric": "사진의 정답: 동영상, 댓글.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "text": "",
+          "manual": true
+        },
+        {
+          "id": "korean-2026-t2-e1-short-3",
+          "number": "3",
+          "type": "short",
+          "points": "12",
+          "key": "㉠ 내재론 / ㉡ 표현론 / ㉢ 반영론 / ㉣ 효용론",
+          "rubric": "사진의 정답: ㉠ 내재론 / ㉡ 표현론 / ㉢ 반영론 / ㉣ 효용론.\n세부 채점 기준표 미제공. 답안과 정답을 비교하여 가채점 점수를 직접 입력. 항목별 배점·부분점수는 추측하지 않음.",
+          "text": "",
+          "manual": true
+        }
+      ]
     },
     {
       "name": "한국사",
-      "questions": []
+      "questions": [
+        {
+          "id": "history-2026-t2-e1-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-2",
+          "number": "2",
+          "type": "mc",
+          "points": "",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-3",
+          "number": "3",
+          "type": "mc",
+          "points": "",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-4",
+          "number": "4",
+          "type": "mc",
+          "points": "",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-5",
+          "number": "5",
+          "type": "mc",
+          "points": "",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-6",
+          "number": "6",
+          "type": "mc",
+          "points": "",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-7",
+          "number": "7",
+          "type": "mc",
+          "points": "",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-8",
+          "number": "8",
+          "type": "mc",
+          "points": "",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-9",
+          "number": "9",
+          "type": "mc",
+          "points": "",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-10",
+          "number": "10",
+          "type": "mc",
+          "points": "",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-11",
+          "number": "11",
+          "type": "mc",
+          "points": "",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-12",
+          "number": "12",
+          "type": "mc",
+          "points": "",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-13",
+          "number": "13",
+          "type": "mc",
+          "points": "",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-14",
+          "number": "14",
+          "type": "mc",
+          "points": "",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-15",
+          "number": "15",
+          "type": "mc",
+          "points": "",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-16",
+          "number": "16",
+          "type": "mc",
+          "points": "",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-17",
+          "number": "17",
+          "type": "mc",
+          "points": "",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-mc-18",
+          "number": "18",
+          "type": "mc",
+          "points": "",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-short-1",
+          "number": "1",
+          "type": "short",
+          "points": "4.6",
+          "key": "산미증식계획|산미 증식 계획",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-short-2",
+          "number": "2",
+          "type": "short",
+          "points": "4.6",
+          "key": "대한 독립 군단|대한독립군단",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-short-3",
+          "number": "3",
+          "type": "short",
+          "points": "4.6",
+          "key": "삼균주의|3균주의|삼균 주의|3균 주의",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-essay-4",
+          "number": "4",
+          "type": "essay",
+          "points": "5.2",
+          "key": "경찰과 경찰 기관 수를 크게 늘리고, 치안유지법을 제정하여 사회주의 운동과 민족운동을 억압하는 등 한국인에 대한 감시와 탄압을 더욱 강화하였다.",
+          "rubric": "키워드: 경찰의 수를 늘렸다 / 경찰 기관의 수를 늘렸다 / 치안유지법을 제정하였다 중 해당 내용이 들어 있고 의미가 통하면 정답 처리: 5.2점.\n맞춤법 표기가 틀리거나 서술형 조건(종결형 문장)을 어겼을 경우: 4.2점.",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-essay-5",
+          "number": "5",
+          "type": "essay",
+          "points": "5.2",
+          "key": "의연금은 연통제와 교통국을 거쳐 전달되었기 때문이다.",
+          "rubric": "키워드: 연통제 또는 교통국. 키워드가 들어 있고 의미가 통하면 정답 처리: 5.2점.\n맞춤법 표기가 틀리거나 서술형 조건(종결형 문장)을 어겼을 경우: 4.2점.",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-essay-6",
+          "number": "6",
+          "type": "essay",
+          "points": "5.2",
+          "key": "이승만은 대한민국 임시정부의 독립운동 방법론인 외교(독립)론에 따라 국제 연맹을 대상으로 국제 연맹 위임 통치를 청원하였다.",
+          "rubric": "이승만: 1.6점 (맞춤법 오류 또는 종결형 문장 조건 위반 시 0.6점).\n외교(독립)론: 1.6점 (같은 조건 위반 시 0.6점).\n국제 연맹 위임 통치: 2점 (같은 조건 위반 시 1점).\n세 키워드가 들어 있고 의미가 통하면 정답 처리. 각 항목의 일반 점수와 감점 후 점수는 택일하며 중복 합산하지 않음.",
+          "text": ""
+        },
+        {
+          "id": "history-2026-t2-e1-essay-7",
+          "number": "7",
+          "type": "essay",
+          "points": "5.2",
+          "key": "광주학생항일운동이 확대된 배경은 신간회가 진상조사단을 파견하고 일제의 학생 운동 탄압에 항의했으며, 대규모 민중대회를 열어 전국적 민족운동으로 확산하려 했기 때문이다.",
+          "rubric": "광주학생항일운동: 2.6점 (맞춤법 오류 또는 종결형 문장 조건 위반 시 1.6점).\n신간회의 지원: 2.6점 (같은 조건 위반 시 1.6점).\n두 키워드가 들어 있고 의미가 통하면 정답 처리. 각 항목의 일반 점수와 감점 후 점수는 택일하며 중복 합산하지 않음.",
+          "text": ""
+        }
+      ]
     },
     {
       "name": "영어",
