@@ -384,9 +384,25 @@
           "type": "short",
           "points": "9",
           "key": "운율 / 3 / 여음구",
-          "rubric": "운율: 3점.\n3: 3점.\n여음구: 3점.\n맞은 항목당 3점, 합계 9점. 답안과 비교하여 가채점 점수를 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "1번째 답",
+              "key": "운율",
+              "points": "3"
+            },
+            {
+              "label": "2번째 답",
+              "key": "3",
+              "points": "3"
+            },
+            {
+              "label": "3번째 답",
+              "key": "여음구",
+              "points": "3"
+            }
+          ]
         },
         {
           "id": "korean-2026-t2-e1-short-2",
@@ -394,9 +410,20 @@
           "type": "short",
           "points": "4",
           "key": "동영상, 댓글",
-          "rubric": "동영상: 2점.\n댓글: 2점.\n맞은 항목당 2점, 합계 4점. 답안과 비교하여 가채점 점수를 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "1번째 답",
+              "key": "동영상",
+              "points": "2"
+            },
+            {
+              "label": "2번째 답",
+              "key": "댓글",
+              "points": "2"
+            }
+          ]
         },
         {
           "id": "korean-2026-t2-e1-short-3",
@@ -404,9 +431,30 @@
           "type": "short",
           "points": "12",
           "key": "㉠ 내재론 / ㉡ 표현론 / ㉢ 반영론 / ㉣ 효용론",
-          "rubric": "㉠ 내재론: 3점.\n㉡ 표현론: 3점.\n㉢ 반영론: 3점.\n㉣ 효용론: 3점.\n각 기호에 맞는 답 하나당 3점, 합계 12점. 답안과 비교하여 가채점 점수를 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "㉠",
+              "key": "내재론",
+              "points": "3"
+            },
+            {
+              "label": "㉡",
+              "key": "표현론",
+              "points": "3"
+            },
+            {
+              "label": "㉢",
+              "key": "반영론",
+              "points": "3"
+            },
+            {
+              "label": "㉣",
+              "key": "효용론",
+              "points": "3"
+            }
+          ]
         }
       ]
     },
