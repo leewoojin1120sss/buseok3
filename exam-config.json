@@ -883,23 +883,11 @@
         {
           "id": "english-2026-t2-e1-short-1",
           "number": "1",
-          "type": "short",
+          "type": "essay",
           "points": "5",
           "key": "ⓐ worried about his(him) spending a second night\nⓑ enjoys determining where pictures were taken",
-          "rubric": "",
-          "text": "",
-          "parts": [
-            {
-              "label": "ⓐ",
-              "points": "2.5",
-              "key": "worried about his spending a second night|worried about him spending a second night"
-            },
-            {
-              "label": "ⓑ",
-              "points": "2.5",
-              "key": "enjoys determining where pictures were taken"
-            }
-          ]
+          "rubric": "ⓐ worried about his spending a second night 또는 worried about him spending a second night: 2.5점.\nⓑ enjoys determining where pictures were taken: 2.5점.\n두 항목 합계 5점. 모범 답안과 비교해 가채점 점수를 직접 입력. 항목 내부 감점 기준은 미제공이므로 임의로 정하지 않음.",
+          "text": ""
         },
         {
           "id": "english-2026-t2-e1-short-2",
