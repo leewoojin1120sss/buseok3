@@ -690,11 +690,439 @@
     },
     {
       "name": "영어",
-      "questions": []
+      "questions": [
+        {
+          "id": "english-2026-t2-e1-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "3.8",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-2",
+          "number": "2",
+          "type": "mc",
+          "points": "3",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-3",
+          "number": "3",
+          "type": "mc",
+          "points": "3.8",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-4",
+          "number": "4",
+          "type": "mc",
+          "points": "4.1",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-5",
+          "number": "5",
+          "type": "mc",
+          "points": "4.7",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-6",
+          "number": "6",
+          "type": "mc",
+          "points": "4.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-7",
+          "number": "7",
+          "type": "mc",
+          "points": "4",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-8",
+          "number": "8",
+          "type": "mc",
+          "points": "3.1",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-9",
+          "number": "9",
+          "type": "mc",
+          "points": "3.2",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-10",
+          "number": "10",
+          "type": "mc",
+          "points": "4.6",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-11",
+          "number": "11",
+          "type": "mc",
+          "points": "4.6",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-12",
+          "number": "12",
+          "type": "mc",
+          "points": "4.2",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-13",
+          "number": "13",
+          "type": "mc",
+          "points": "4.2",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-14",
+          "number": "14",
+          "type": "mc",
+          "points": "4",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-15",
+          "number": "15",
+          "type": "mc",
+          "points": "3.3",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-16",
+          "number": "16",
+          "type": "mc",
+          "points": "3.4",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-17",
+          "number": "17",
+          "type": "mc",
+          "points": "3.7",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-18",
+          "number": "18",
+          "type": "mc",
+          "points": "3.9",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-19",
+          "number": "19",
+          "type": "mc",
+          "points": "4.5",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-20",
+          "number": "20",
+          "type": "mc",
+          "points": "4.3",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-mc-21",
+          "number": "21",
+          "type": "mc",
+          "points": "4.5",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "english-2026-t2-e1-short-1",
+          "number": "1",
+          "type": "short",
+          "points": "5",
+          "key": "ⓐ worried about his(him) spending a second night\nⓑ enjoys determining where pictures were taken",
+          "rubric": "정답 ⓐ의 his 또는 him 모두 허용.\n총 5점. 빈칸별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "text": "",
+          "manual": true
+        },
+        {
+          "id": "english-2026-t2-e1-short-2",
+          "number": "2",
+          "type": "short",
+          "points": "3",
+          "key": "(A) (the) chairman\n(B) detective",
+          "rubric": "(A)는 chairman 또는 the chairman 허용. (B)는 detective.\n총 3점. 빈칸별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "text": "",
+          "manual": true
+        },
+        {
+          "id": "english-2026-t2-e1-short-3",
+          "number": "3",
+          "type": "short",
+          "points": "4",
+          "key": "ⓐ examination → examining\nⓒ training → trained",
+          "rubric": "올바른 수정: ⓐ examination을 examining으로, ⓒ training을 trained로 수정.\n총 4점. 항목별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "text": "",
+          "manual": true
+        },
+        {
+          "id": "english-2026-t2-e1-essay-4",
+          "number": "4",
+          "type": "essay",
+          "points": "5",
+          "key": "We are getting further and further away from our design by spending time without physical movement.",
+          "rubric": "총 5점. 세부 채점 기준은 미제공. 제시된 모범 답안과 비교하여 가채점 점수를 직접 입력. 어순·어형·철자 오류의 감점이나 대체 답안 인정 범위는 추측하지 않음.",
+          "text": ""
+        }
+      ]
     },
     {
       "name": "사회",
-      "questions": []
+      "questions": [
+        {
+          "id": "social-2026-t2-e1-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "4.1",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-2",
+          "number": "2",
+          "type": "mc",
+          "points": "4.5",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-3",
+          "number": "3",
+          "type": "mc",
+          "points": "4.5",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-4",
+          "number": "4",
+          "type": "mc",
+          "points": "4.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-5",
+          "number": "5",
+          "type": "mc",
+          "points": "4.2",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-6",
+          "number": "6",
+          "type": "mc",
+          "points": "4.5",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-7",
+          "number": "7",
+          "type": "mc",
+          "points": "5",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-8",
+          "number": "8",
+          "type": "mc",
+          "points": "5",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-9",
+          "number": "9",
+          "type": "mc",
+          "points": "4.2",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-10",
+          "number": "10",
+          "type": "mc",
+          "points": "4.3",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-11",
+          "number": "11",
+          "type": "mc",
+          "points": "4.8",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-12",
+          "number": "12",
+          "type": "mc",
+          "points": "4.7",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-13",
+          "number": "13",
+          "type": "mc",
+          "points": "4.6",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-14",
+          "number": "14",
+          "type": "mc",
+          "points": "4.3",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-15",
+          "number": "15",
+          "type": "mc",
+          "points": "4.6",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-16",
+          "number": "16",
+          "type": "mc",
+          "points": "4.6",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-17",
+          "number": "17",
+          "type": "mc",
+          "points": "4.9",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-18",
+          "number": "18",
+          "type": "mc",
+          "points": "4.7",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-19",
+          "number": "19",
+          "type": "mc",
+          "points": "4.4",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-20",
+          "number": "20",
+          "type": "mc",
+          "points": "4.6",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-21",
+          "number": "21",
+          "type": "mc",
+          "points": "4.9",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "social-2026-t2-e1-mc-22",
+          "number": "22",
+          "type": "mc",
+          "points": "4.5",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        }
+      ]
     },
     {
       "name": "과학",
