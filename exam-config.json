@@ -886,9 +886,20 @@
           "type": "short",
           "points": "5",
           "key": "ⓐ worried about his(him) spending a second night\nⓑ enjoys determining where pictures were taken",
-          "rubric": "정답 ⓐ의 his 또는 him 모두 허용.\n총 5점. 빈칸별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "ⓐ",
+              "points": "2.5",
+              "key": "worried about his spending a second night|worried about him spending a second night"
+            },
+            {
+              "label": "ⓑ",
+              "points": "2.5",
+              "key": "enjoys determining where pictures were taken"
+            }
+          ]
         },
         {
           "id": "english-2026-t2-e1-short-2",
@@ -896,9 +907,20 @@
           "type": "short",
           "points": "3",
           "key": "(A) (the) chairman\n(B) detective",
-          "rubric": "(A)는 chairman 또는 the chairman 허용. (B)는 detective.\n총 3점. 빈칸별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "(A)",
+              "points": "1.5",
+              "key": "chairman|the chairman"
+            },
+            {
+              "label": "(B)",
+              "points": "1.5",
+              "key": "detective"
+            }
+          ]
         },
         {
           "id": "english-2026-t2-e1-short-3",
@@ -906,9 +928,20 @@
           "type": "short",
           "points": "4",
           "key": "ⓐ examination → examining\nⓒ training → trained",
-          "rubric": "올바른 수정: ⓐ examination을 examining으로, ⓒ training을 trained로 수정.\n총 4점. 항목별 배점·부분점수 기준은 미제공이므로 임의 배분하지 않음. 정답과 비교하여 가채점 점수를 직접 입력.",
+          "rubric": "",
           "text": "",
-          "manual": true
+          "parts": [
+            {
+              "label": "ⓐ 수정한 단어",
+              "points": "2",
+              "key": "examining"
+            },
+            {
+              "label": "ⓒ 수정한 단어",
+              "points": "2",
+              "key": "trained"
+            }
+          ]
         },
         {
           "id": "english-2026-t2-e1-essay-4",
