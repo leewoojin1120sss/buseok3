@@ -1147,7 +1147,224 @@
     },
     {
       "name": "과학",
-      "questions": []
+      "questions": [
+        {
+          "id": "science-2026-t2-e1-mc-1",
+          "number": "1",
+          "type": "mc",
+          "points": "3.5",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-2",
+          "number": "2",
+          "type": "mc",
+          "points": "3.7",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-3",
+          "number": "3",
+          "type": "mc",
+          "points": "3.4",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-4",
+          "number": "4",
+          "type": "mc",
+          "points": "4.1",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-5",
+          "number": "5",
+          "type": "mc",
+          "points": "4.3",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-6",
+          "number": "6",
+          "type": "mc",
+          "points": "3.8",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-7",
+          "number": "7",
+          "type": "mc",
+          "points": "4",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-8",
+          "number": "8",
+          "type": "mc",
+          "points": "4.4",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-9",
+          "number": "9",
+          "type": "mc",
+          "points": "3.9",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-10",
+          "number": "10",
+          "type": "mc",
+          "points": "4.3",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-11",
+          "number": "11",
+          "type": "mc",
+          "points": "4.3",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-12",
+          "number": "12",
+          "type": "mc",
+          "points": "4.4",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-13",
+          "number": "13",
+          "type": "mc",
+          "points": "3.4",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-14",
+          "number": "14",
+          "type": "mc",
+          "points": "4.4",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-15",
+          "number": "15",
+          "type": "mc",
+          "points": "3.4",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-16",
+          "number": "16",
+          "type": "mc",
+          "points": "4.6",
+          "key": "3",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-17",
+          "number": "17",
+          "type": "mc",
+          "points": "5",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-18",
+          "number": "18",
+          "type": "mc",
+          "points": "4.2",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-19",
+          "number": "19",
+          "type": "mc",
+          "points": "4.5",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-20",
+          "number": "20",
+          "type": "mc",
+          "points": "4.4",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-21",
+          "number": "21",
+          "type": "mc",
+          "points": "4",
+          "key": "1",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-22",
+          "number": "22",
+          "type": "mc",
+          "points": "4",
+          "key": "2",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-23",
+          "number": "23",
+          "type": "mc",
+          "points": "5",
+          "key": "4",
+          "rubric": "",
+          "text": ""
+        },
+        {
+          "id": "science-2026-t2-e1-mc-24",
+          "number": "24",
+          "type": "mc",
+          "points": "5",
+          "key": "5",
+          "rubric": "",
+          "text": ""
+        }
+      ]
     }
   ]
 }
